@@ -116,7 +116,8 @@ float: left;
 background-color: #943156;
     color: #f0a7d0;
     text-align: left;
-    margin-left: 2%
+    margin-left: 2%;
+        font-family: 'Questrial', sans-serif;
 }
 
 #siderright{
