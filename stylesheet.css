@@ -1,0 +1,100 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*  mine begins here  */
+/*--------------------*/
+
+
+body{
+  margin: 0 auto;
+    top: 0;
+}
+
+#container{
+   width: 95%;
+   height: auto;
+   background-color: #943156;
+   margin: 0 auto;
+   font-size: 20px;
+}
+.spanhm{
+  font-size: 30px;
+  font-weight: 600;
+}
+
+#top{
+    padding-top: 30px;
+   text-align: center;
+    color:#de94af;
+    background-color: #b95c7f;
+    width: 60%;
+    margin: 0 auto;
+    height: 70px;
+}
+#siderleft{
+    
+}
+
+#middleground{
+    
+}
+
+#siderright{
+    
+}
+
+#bottomer{
+  width: 100%;
+  height: 30px;
+ padding-top: 10px
+  
+}
+.bt{
+  margin: 0 auto;  
+}
