@@ -139,12 +139,14 @@ button{
     background-color: #4c001d;
     color: ; 
    font-size:36px;
+    transition: border-radius 0.3s, width 0.3s;
 }
 button:hover{
     color: antiquewhite;
-    height: 45%;
+    height: 71%;
     width: 40%;
     box-shadow: 2px 2px 2px 2px brown;
+    border-radius: 15%;
 }
 
 #siderright{
