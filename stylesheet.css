@@ -135,11 +135,13 @@ background-color: #943156;
 button{
     height: 20%;
     border-style: hidden;
+    font-family: 'Poiret One', cursive;
     width: 35%;
     background-color: #4c001d;
     color: ; 
    font-size:36px;
-    transition: border-radius 0.3s, width 0.3s;
+    transition: border-radius 0.3s, width 0.3s, font-size 0.2s, color 0.3s;
+    font-weight: 900;
 }
 button:hover{
     color: antiquewhite;
@@ -149,6 +151,7 @@ button:hover{
     border-radius: 15%;
     font-family: 'Poiret One', cursive;
     font-size: 40px;
+    font-kerning: 2px;
 }
 
 #siderright{
