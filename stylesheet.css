@@ -147,6 +147,7 @@ button:hover{
     width: 40%;
     box-shadow: 2px 2px 2px 2px brown;
     border-radius: 15%;
+    font-family: 'Poiret One', cursive;
 }
 
 #siderright{
