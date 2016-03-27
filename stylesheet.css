@@ -100,6 +100,7 @@ body{
     color: #4a001b;
     padding-top: 330px;
     margin-right: 4% solid transparent;
+    
 }
 
 #siderleft:hover{
@@ -115,7 +116,18 @@ body{
 float: left;
 background-color: #943156;
     color: #f0a7d0;
-    text-align: left;
+    text-align: center;
+    margin-left: 2%;
+    font-family: 'Questrial', sans-serif;
+}
+#middlegroundr{
+    margin-top: 30px;
+ min-height: 700px;
+ width: 78%;
+float: left;
+background-color: #943156;
+    color: #f0a7d0;
+    text-align: center;
     margin-left: 2%;
     font-family: 'Questrial', sans-serif;
 }
@@ -124,6 +136,15 @@ button{
     height: 20%;
     border-style: hidden;
     width: 35%;
+    background-color: #4c001d;
+    color: ; 
+   font-size:36px;
+}
+button:hover{
+    color: antiquewhite;
+    height: 45%;
+    width: 40%;
+    box-shadow: 2px 2px 2px 2px brown;
 }
 
 #siderright{
@@ -166,7 +187,7 @@ width: 100%;
     color: #943156;
     float: left;
     width: 100%;
-    height: auto;
+    height:30px;
 }
 .this{
     color: #4a001b;
@@ -176,4 +197,11 @@ width: 100%;
 }
 a{
     text-decoration: none;
+}
+h1{
+  font-size: 24px;  
+}
+
+h3{
+font-size: 20px;    
 }
